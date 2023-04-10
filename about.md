@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
-Some information about you!
+Gabin LONGONI, développeur C# à Strasbourg
 
-### More Information
+### Plus d'informations
 
-A place to include any other types of information that you'd like to include about yourself.
+Âgé de 26 ans, développeur depuis ma naissance. J'ai créé ce blog afin d'apprendre et transmettre avec mes lecteurs.
 
-### Contact me
+### Contactez moi
 
-[email@domain.com](mailto:email@domain.com)
+[gabin.longoni@gmail.com](mailto:gabin.longoni@gmail.com)
