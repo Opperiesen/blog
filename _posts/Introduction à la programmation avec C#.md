@@ -1,3 +1,8 @@
+---
+layout: post
+title: Introduction à la programmation avec C#
+---
+
 # Introduction à la programmation avec C#
 
 La programmation est une compétence de plus en plus demandée dans le monde de l'informatique, car elle permet de créer des logiciels, des applications et des sites web. L'une des langues de programmation les plus populaires est C#, qui est largement utilisée pour créer des applications Windows, des jeux et des applications mobiles.
